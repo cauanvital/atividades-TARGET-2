@@ -14,4 +14,3 @@ elif i == n3:
   print("{} faz parte da sequência de Fibonacci!".format(i))
 else:
   print("{} não faz parte da sequência de Fibonacci!".format(i))
-
