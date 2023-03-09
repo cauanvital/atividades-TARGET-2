@@ -6,3 +6,4 @@ for i in sta.keys():
     print(f'{i} é responsável por {round(per, 1)}% do faturamento da distribuidora')
 
 print("Valores arredondados.")
+
